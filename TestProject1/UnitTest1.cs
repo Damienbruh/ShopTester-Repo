@@ -1,8 +1,6 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
+﻿
 using Microsoft.Data.Sqlite;
-using Xunit;
+
 
 namespace TestProject1
 {
